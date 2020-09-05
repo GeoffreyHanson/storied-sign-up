@@ -1,0 +1,20 @@
+.NameInput {
+  font-family: 'Arial';
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-align: center;
+  padding: 8px 65px;
+  border: solid 2px gray;
+  color: white;
+  background-color: #23242e;
+};
+
+.NameInput:focus {
+  border: solid 2px white;
+}
+
+.filled-field {
+  border: solid 2px white;
+  color: white;
+}

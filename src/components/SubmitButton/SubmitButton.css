@@ -1,0 +1,27 @@
+.SubmitButton {
+  font-family: 'Arial';
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: 2px;
+  padding: 8px 65px;
+  border: solid 2px #7568b3;
+  color: #7568b3;
+}
+
+.empty-form {
+  background-color: #23242e;
+} 
+
+.one-field {
+  background: rgba(117, 104, 179, 0.33);
+}
+
+.two-fields {
+  background: rgba(117, 104, 179, 0.66);
+}
+
+.filled-form {
+  color: white;
+  background-color: #7568b3;
+  box-shadow: 0 0 30px 1px #7568b3;
+}
