@@ -3,7 +3,9 @@ import './SubmitButton.css';
 // import styles from './SubmitButton.module.css';
 
 // Submit button counts inputs, chaning on each input.
-const SubmitButton = ({ name, gender, dateOfBirth, backgroundColor, label, completion }) => {
+const SubmitButton = ({ 
+  name, gender, dateOfBirth, backgroundColor, label, completion 
+}) => {
   return (
     <button
       type="submit"

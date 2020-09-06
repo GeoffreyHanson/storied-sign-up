@@ -1,7 +1,7 @@
 import React from 'react';
 import './NameInput.css';
 
-const NameInput = ({placeholder, name, filled}) => {
+const NameInput = ({ placeholder, name, filled }) => {
   const inputFilled = filled ? 'filled-field' : null;
   // const inputFilled = filled && 'filled-field';
   return (
