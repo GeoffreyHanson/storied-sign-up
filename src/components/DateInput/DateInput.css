@@ -1,4 +1,4 @@
-.NameInput {
+.DateInput {
   font-family: 'Arial';
   font-weight: bold;
   font-size: 12px;
@@ -11,7 +11,7 @@
   width: 230px;
 };
 
-.NameInput:focus {
+.DateInput:focus {
   border: solid 2px white;
 }
 
